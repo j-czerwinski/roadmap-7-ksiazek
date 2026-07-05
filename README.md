@@ -9,7 +9,7 @@ Przerobić 7 książek w formie krótkich notatek rozdziałowych i powtórek z g
 <br> Każdy issue odpowiada jednej notatce rozdziału albo części rozdziału.
 
 ### Labels:
-<br> [1] „Paradoks wyboru” — Barry Schwartz
+[1] „Paradoks wyboru” — Barry Schwartz
 <br> [2] „Piękno niedoskonałości” — Andy Dobson
 <br> [3] „Odpuść! Dlaczego czasem warto rezygnować i nie robić wszystkiego za wszelką cenę” — Annie Duke
 <br> [4] „Agile, który działa. Pracuj zwinnie i skutecznie” — Michał Dusiński, Tomasz Borowiec
