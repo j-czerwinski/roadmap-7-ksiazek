@@ -5,7 +5,7 @@
 Przerobić 7 książek w formie krótkich notatek rozdziałowych i powtórek z głowy.
 
 ### Założenia:
-<br> Każdy Label określa książkę i autora
+Każdy Label określa książkę i autora
 <br> Każdy issue odpowiada jednej notatce rozdziału albo części rozdziału.
 
 ### Labels:
